@@ -5,10 +5,6 @@
   🌱 Learning by building, one project at a time.
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/OCqzpPVXOR5LbEEQbs/giphy.gif" width="500" alt="Animated illustration">
-</p>
-
 ---
 
 ### 🌐 Connect
